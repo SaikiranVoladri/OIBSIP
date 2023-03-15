@@ -1,0 +1,6 @@
+[submodule "my-portfolio"]
+	path = my-portfolio
+	url = https://github.com/SaikiranVoladri/my-portfolio
+[submodule "Project-1-Netflix-Clone-Website"]
+	path = Project-1-Netflix-Clone-Website
+	url = https://github.com/SaikiranVoladri/Project-1-Netflix-Clone-Website
