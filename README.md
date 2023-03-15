@@ -4,13 +4,13 @@
 
 <br>
 
-Portfolio website link https://saikiranvoladri.github.io/my-portfolio/ 
+Portfolio website link  : https://saikiranvoladri.github.io/my-portfolio/ 
 
 <br>
 
-https://saikiranvoladri.github.io/Project-1-Netflix-Clone-Website/ 
+Landing Page Link : https://saikiranvoladri.github.io/Project-1-Netflix-Clone-Website/ 
 
 <br>
-Temperature Converter Link https://saikiranvoladri.github.io/TemperatureConverter/
+Temperature Converter Link :  https://saikiranvoladri.github.io/TemperatureConverter/
 
 
