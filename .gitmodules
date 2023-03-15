@@ -4,3 +4,6 @@
 [submodule "Project-1-Netflix-Clone-Website"]
 	path = Project-1-Netflix-Clone-Website
 	url = https://github.com/SaikiranVoladri/Project-1-Netflix-Clone-Website
+[submodule "TemperatureConverter"]
+	path = TemperatureConverter
+	url = https://github.com/SaikiranVoladri/TemperatureConverter
